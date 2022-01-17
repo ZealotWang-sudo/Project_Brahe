@@ -1,0 +1,245 @@
+{
+    "m_SelectedDeviceId": "1WMHH835XH0503",
+    "m_SelectedPackage": {
+        "deviceId": "1WMHH835XH0503",
+        "name": "com.prvncher.MRTKOnline2",
+        "processId": 3763,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1WMHH821PP0346",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 8455,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 7300,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 11111,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 12606,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 14961,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 4093,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 5479,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 9300,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 25057,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 25659,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 30385,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 6779,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 8795,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 19605,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 21914,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 23843,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 26001,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 6836,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 25601,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 13158,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 2760,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 13733,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 5206,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 9329,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 19808,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 20518,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 22952,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 24713,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 32576,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH835XH0503",
+            "name": "com.prvncher.MRTKOnline2",
+            "processId": 3763,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
